@@ -20,7 +20,7 @@ public class FlipkartLogin {
 
 	
 	public void usernameMethod() {
-		username.sendKeys("8999264192");		
+		username.sendKeys("9175678272");		
 	}
 	
 	public void passwordMethod() {
