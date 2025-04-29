@@ -17,6 +17,7 @@ public class FlipkartLogin {
 	password =driver.findElement(By.xpath("//input[@type='password']"));
 	Loginbutton =driver.findElement(By.xpath("//button[@class='_2KpZ6l _2HKlqd _3AWRsL']"));
 	//flipkart page
+//homepage 2
 	}
 
 	
